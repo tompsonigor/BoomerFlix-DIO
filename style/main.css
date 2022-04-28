@@ -13,7 +13,7 @@
 
 body {
     background: var(--preto);
-    font-family:'Times New Roman', Times, serif;
+    font-family:'Arial', Times, serif;
     color: #fff;
 }
 
@@ -54,6 +54,8 @@ header nav a:hover {
     flex-direction:column;
     justify-content: center;
     align-items: flex-start;
+
+    margin-bottom: 12px;
 }
 
 .desenho-principal .descricao {
@@ -94,7 +96,7 @@ div i {
 }
 
 .desenho-principal .container {
-    width: 60%;
+   /*width: 60%;*/
 }
 
 .box-desenho {
