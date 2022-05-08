@@ -44,7 +44,7 @@ Conecte-se comigo em [LinkedIn](https://www.linkedin.com/in/igor-tompson-a539871
 Para Clonar o repositório de *BoomerFlix-DIO*, faça:
 
 ```
-$ git clone https://github.com/tompsonigor/BoomerFlix-DIO
+$ git clone https://github.com/tompsonigor/BoomerFlix-DIO.git
 
 $ cd BoomerFlix-DIO
 ```
